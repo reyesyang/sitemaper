@@ -1,4 +1,4 @@
 sitemaper
 =========
 
-A ruby tool used to created sitemap
+Some rake tasks used to generate sitemap
