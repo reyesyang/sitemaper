@@ -1,4 +1,4 @@
-# Sitemaper(Comming soon)
+# Sitemaper(Coming soon)
 
 Some rake tasks used to generate sitemap
 
